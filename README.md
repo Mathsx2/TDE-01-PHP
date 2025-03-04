@@ -25,4 +25,4 @@ A primeira linha da entrada contém um inteiro C, representando a capacidade da 
 **Saída** \
 Seu programa deve imprimir uma linha contendo um número inteiro representando o número mínimo de viagens do teleférico para levar todos os alunos até o pico da montanha.
 
-![EXEMPLO 01](https://i.ibb.co/jvKqYP89/image.png)
+![EXEMPLO 02](https://i.ibb.co/jvKqYP89/image.png)
